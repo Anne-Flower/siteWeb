@@ -1,2 +1,5 @@
 # siteWeb
-![alt text](image.png)
+
+
+### global architecture ###
+![Architecture image](image.png)
